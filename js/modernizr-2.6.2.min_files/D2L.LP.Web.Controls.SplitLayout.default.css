@@ -1,0 +1,94 @@
+
+
+div.dsl_m_load {
+	background-color: #EDF5FF;
+	border: 1px solid #7F7F7F;
+	color: #666666;
+	font-size: 2em;	
+	text-align: center;
+	padding: 0.5em;
+	padding-right: 3em;
+	padding-left: 3em;
+	position: absolute;
+	margin: 0.5em;
+}
+
+div.dsl_m {
+	overflow: hidden;
+	visibility:hidden; 
+}
+
+
+div.dsl_p_m {
+	overflow: hidden; 
+	height:100%;
+	width:100%	
+}
+
+
+div.dsl_pmh, div.dsl_pmv {
+	 overflow: hidden;
+}
+
+
+div.dsl_pmh {
+	float:left;
+	height: 100%;
+}
+
+
+div.dsl_pmv {
+	width: 100%;
+}
+
+
+div.dsl_p_bh {
+	background:#F1F1F1 url(/d2l/img/LP/splitLayout/h_g_bg.gif) repeat-y scroll right top;
+}
+
+div.dsl_p_bv {
+	background:#F1F1F1 url(/d2l/img/LP/splitLayout/v_g_bg.gif) repeat-x scroll left top;
+}
+
+
+
+div.dsl_p_bh {
+	height: 100%;
+	width: 5px;	
+	float:left;
+	border-left: 1px solid #BBBBBB;
+	border-right: 1px solid #BBBBBB;
+}
+
+
+div.dsl_p_bv {
+	height: 5px;
+	width:100%;
+	border-top: 1px solid #BBBBBB;
+	border-bottom: 1px solid #BBBBBB;
+}
+
+
+div.dsl_p_m_s {
+	width:100%;
+	height:100%;
+}
+
+
+div.dsl_p_m_sclUp, div.dsl_p_m_sclDnw, div.dsl_p_m_sclUpHov, div.dsl_p_m_sclDnwHov {
+	height: 10px;
+	width: 100%;
+}
+
+div.dsl_p_m_sclUpHov {
+	background-image: url(/d2l/img/LP/splitLayout/up.gif);
+	background-position: top center;
+	background-repeat:no-repeat;
+}
+
+
+div.dsl_p_m_sclDnwHov {
+	background-image: url(/d2l/img/LP/splitLayout/down.gif);
+	background-position: top center;
+	background-repeat:no-repeat;
+}
