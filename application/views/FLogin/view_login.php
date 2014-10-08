@@ -1,6 +1,6 @@
 <div id="login_form">
 	<h2>Login</h2>
-	<form action="/login/login_user" method="POST">
+	<form action="/test/login/login_user" method="POST">
 		<div>
 			<label for="username">Username: </label>
 			<input type="text" value="<?php echo set_value('username'); ?>" name="username">

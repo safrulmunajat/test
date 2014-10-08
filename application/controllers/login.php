@@ -8,7 +8,7 @@
 			$this->load->view('includes/footer');
 		}
 
-		public function register_user() {
+		public function login_user() {
 
 			$this->load->library('form_validation');
 
