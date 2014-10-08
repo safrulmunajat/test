@@ -13,7 +13,7 @@
 	<div id="wrapper">
 		<div id="outer_nav">
 
-			<a href="#">
+			<a href="<?php echo base_url().""; ?>">
 				<div id="logo"></div>
 			</a>
 

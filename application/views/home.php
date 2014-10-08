@@ -6,3 +6,7 @@
 		$this->load->view('home');
 		$this->load->view('includes/footer');
 	}
+
+?>
+
+<div style="text-align: center"><img src="../test/images/welcome.png"></div>
