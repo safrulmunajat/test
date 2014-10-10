@@ -72,6 +72,12 @@ body {
 	margin-left: 10px;
 }
 
+#nav_header input {
+	margin-top: 5px;
+	width: 500px;
+	margin-left: 200px;
+}
+
 #nav_header a {
 	text-decoration: none;
 	float: right;

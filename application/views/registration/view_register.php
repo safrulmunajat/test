@@ -12,26 +12,26 @@
 		<div>
 			<label for="country">Country: </label>
 			<select name="contry">
-				<option value="" selected="selected">Select Country</option>
-				<option value="United States"></option>
-				<option value="United Kingdom"></option>
-				<option value="Afghanistan"></option>
-				<option value="Albana"></option>
-				<option value="Algeria"></option>
-				<option value="American Samoa"></option>
-				<option value="Andorra"></option>
-				<option value="Anguilla"></option>
-				<option value="Antartica"></option>
-				<option value="Argentina"></option>
-				<option value="Australia"></option>
-				<option value="Austria"></option>
-				<option value="Bahrain"></option>
-				<option value="Bangladesh"></option>
-				<option value="Belgium"></option>
-				<option value="Brazilia"></option>
-				<option value="Indonesia"></option>
-				<option value="India"></option>
-				<option value="Italia"></option>
+				<option value="" selected="selected">-Select Country-</option>
+				<option value="United States">United States</option>
+				<option value="United Kingdom">United Kingdom</option>
+				<option value="Afghanistan">Afghanistan</option>
+				<option value="Albana">Albana</option>
+				<option value="Algeria">Algeria</option>
+				<option value="American Samoa">American Samoa</option>
+				<option value="Andorra">Andorra</option>
+				<option value="Anguilla">Anguilla</option>
+				<option value="Antartica">Antartica</option>
+				<option value="Argentina">Argentina</option>
+				<option value="Australia">Australia</option>
+				<option value="Austria">Austria</option>
+				<option value="Bahrain">Bahrain</option>
+				<option value="Bangladesh">Bangladesh</option>
+				<option value="Belgium">Belgium</option>
+				<option value="Brazilia">Brazilia</option>
+				<option value="Indonesia">Indonesia</option>
+				<option value="India">India</option>
+				<option value="Italia">Italia</option>
 			</select>
 		</div>
 		<div>

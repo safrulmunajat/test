@@ -1,5 +1,5 @@
 <div id="login_form">
-	<h2>Login</h2>
+	<h2>Sign In</h2>
 	<form action="/test/login/login_user" method="POST">
 		<div>
 			<label for="username">Username: </label>

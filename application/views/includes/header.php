@@ -16,16 +16,19 @@
 			<a href="<?php echo base_url().""; ?>">
 				<div id="logo"></div>
 			</a>
-
+			
 			<div id="dropdown_nav">
 				<div id="nav_header">
+					
 					<span class="exchange">Exchange</span>
 					<span class="local_quotes">Local Quotes</span>
 					<span class="local_sites">Local Sites</span>
 					<span class="agencies">Agencies</span>
 					<span class="resource">Resource</span>
 					<span class="network">Network</span>
-					<a href="<?php echo base_url()."login/"; ?>">Login</a>
+					
+					<!-- <input type="text" name="search" value="Search"> -->
+					<a href="<?php echo base_url()."login/"; ?>">Sign In</a>
 					<a href="<?php echo base_url()."register/"; ?>">Register</a>
 				</div>	
 			</div>
@@ -74,4 +77,8 @@
 				</ul>
 			</div>
 		</div>
+	</div>
+
+	<div id="sidebar">
+		
 	</div>
